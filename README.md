@@ -7,5 +7,5 @@ The project addresses the challenge of developing, versioning, and deploying a d
 
 Technologies: Python, Jupyter Notebook, pandas, plotly, streamlit, Git, GitHub, Render, VS Code
 
-Link to the app: https://final-proyect-hxre.onrender.com/
+Link to the app to excecute: https://final-proyect-hxre.onrender.com/
 
